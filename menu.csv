@@ -1,0 +1,26 @@
+category,item,size,price
+pizza,pepperoni,large,12.95
+pizza,pepperoni,medium,10.00
+pizza,pepperoni,small,7.00
+pizza,cheese,large,10.95
+pizza,cheese,medium,9.25
+pizza,cheese,small,6.50
+pizza,eggplant,large,11.95
+pizza,eggplant,medium,9.75
+pizza,eggplant,small,6.75
+side,fries,large,4.50
+side,fries,small,3.50
+side,greek salad,,7.25
+topping,extra cheese,,2.00
+topping,mushrooms,,1.50
+topping,sausage,,3.00
+topping,canadian bacon,,3.50
+topping,AI sauce,,1.50
+topping,peppers,,1.00
+drink,coke,large,3.00
+drink,coke,medium,2.00
+drink,coke,small,1.00
+drink,sprite,large,3.00
+drink,sprite,medium,2.00
+drink,sprite,small,1.00
+drink,bottled water,,5.00
